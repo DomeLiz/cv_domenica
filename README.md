@@ -1,4 +1,4 @@
-En este proyecto consiste en la creación de un CV (Curriculum Vitae) de una sola página utilizando HTML y CSS como un agregado.
+El proyecto consiste en la creación de un CV (Curriculum Vitae) de una sola página utilizando HTML y CSS como un agregado.
 El proyecto cumple con los siguiente requisitos que fueron indicados en:
 https://roadmap.sh/projects/single-page-cv
 
